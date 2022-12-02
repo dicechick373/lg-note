@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"GoogleCloudFunctionsでsitemap.xmlを作成してCloudStorageに保存する","date":"2022-10-01","slug":"test","coverImage":"/assets/blog/dynamic-routing/cover.jpg","excerpt":"GoogleCloudFunctionsでsitemap.xmlを作成してCloudStorageに保存する","tags":["Python","GCF","GCS"]}]},"__N_SSG":true}
